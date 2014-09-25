@@ -1,4 +1,4 @@
-Hola!!!!
+<h5>Captcha-Jquery diseñado y desarrollado por Bianca Conde y Alfonso Garcia en Saregune </h5>
 
   Como todos sabéis, en ocasiones es necesario saber si lo que está interactuando con nuestra web es una persona, normalmente para el tema de recibir mails con sugerencias, opiniones o algún test, todos sabemos que a veces se mandan masivamente desde programas. Para evitar esto, he implementado lo que podriamos denominar un "captcha", el cual consiste en mover una imagen dentro de otra.
 
